@@ -20,3 +20,9 @@ client/coverage
 .cache
 .config
 .npm
+/nbproject/private/
+node_modules/
+nbproject/
+data/
+data
+client/vendor/
